@@ -128,6 +128,12 @@ em {
     clip-path: inset(50%);
 }
 
+@media screen and (min-width: 768px) {
+    .stats-card__image {
+        min-height: 350px;
+    }
+}
+
 @media screen and (min-width: 1024px) {
     html {
         font-size: 17px;
