@@ -60,6 +60,7 @@ I'll aim to improve the following:
 
 <!-- - Website - [Add your name here](https://www.your-site.com) -->
 - Frontend Mentor - [@ArthurWiliams](https://www.frontendmentor.io/profile/ArthurWiliams)
+- Email - [arthurwiliams86@gmail.com](arthurwiliams86@gmail.com)
 <!-- - Twitter - [@yourusername](https://www.twitter.com/yourusername) -->
 
 <!-- ## Acknowledgments
