@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-<!-- - Solution URL: [Add solution URL here](https://your-solution-url.com) -->
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-stats-component-using-flexbox-lsHZfQEwM](https://www.frontendmentor.io/solutions/responsive-stats-component-using-flexbox-lsHZfQEwM)
 - Live Site URL: [https://arthurwiliams.github.io/stats-preview-card-component/](https://arthurwiliams.github.io/stats-preview-card-component/)
 
 ## My process
